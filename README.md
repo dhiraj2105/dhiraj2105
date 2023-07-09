@@ -37,7 +37,7 @@
 <p>
 
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
- <code><img width="15% src="https://s3-eu-west-1.amazonaws.com/worldvectorlogologos/logos/c.svg?response-content-type=application%2Foctet-stream&response-content-disposition=attachment%3B%20filename%3D%22c.svg%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIABU4EDO27KZDOIA%2F20230709%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230709T110314Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Signature=d67fea48757895a1653f8df7fa18c494dee9a0a9bd88e030f2a71c5b28b374ec"></code>
+ <code><img width="15% src="https://worldvectorlogo.com/logo/c"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
