@@ -1,7 +1,4 @@
-
-<p align="center"><img src="C:\Users\Saiyam\Desktop\github\SaiyamTuteja-main\banner.jpg"></p>
-
-<h1 align="center">Hi , I'm Dhiraj Kumar</h1>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Dhiraj Kumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 <p align="right">
   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;BCA+Undergrad"/>
