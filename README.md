@@ -7,14 +7,13 @@
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br>
-<p align="center" width="150px">I am a BCA Graduate .Here to contribute in Open Source projects and learn new things on the go. Currently, I am focused on strengthening my programming skills, particularly in Full Stack Development , C++ and data structures. I possess a solid foundation in C, C++, JavaScript, Python , having mastered their basics. I believe that continuous learning in the ever-evolving field of technology is key to staying relevant and making a meaningful impact.</p>
+<p align="center" width="150px">I am pursuing Masters of Computer Applications .Here to contribute in Open Source projects and learn new things on the go. Currently, I am focused on strengthening my programming skills, particularly in Full Stack Development , C++ and data structures. I possess a solid foundation in C, C++, JavaScript, Python , having mastered their basics. I believe that continuous learning in the ever-evolving field of technology is key to staying relevant and making a meaningful impact.</p>
 </p>
 <br>
 <hr>
 
 **Talking about Technical Stuffs:**
 
-- 👨🏽‍💻 I’m a third year Enginnering student.
 - 🌱 I’m currently learning DSA , C++ and Full Stack Development. 
 - 💬 Ask me about anything, I am happy to help.
 - 👾 Fun fact:People who are using a computer blink 66% less than those who aren’t..
