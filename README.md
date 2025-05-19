@@ -28,7 +28,7 @@
 ### 📌 Currently Learning
 
 - 🔍 Advanced DSA with C++  
-- 🌐 Full Stack Web Dev (MERN Stack)  
+- 🌐 Full Stack Web Dev
 - 🧱 System Design & scalable architecture  
 - 🐳 DevOps: Docker, CI/CD, GitHub Actions  
 - ☁️ Cloud: AWS, Vercel, serverless deployment  
