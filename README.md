@@ -49,7 +49,7 @@ const dhiraj = {
 
 ### 📌 Currently Learning
 
-- 🔍 Advanced DSA with C++ for coding interviews  
+- 🔍 Advanced DSA with C++  
 - 🌐 Full Stack Web Dev (MERN Stack)  
 - 🧱 System Design & scalable architecture  
 - 🐳 DevOps: Docker, CI/CD, GitHub Actions  
@@ -62,12 +62,12 @@ const dhiraj = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=dhiraj2105&show_icons=true&theme=radical" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj2105&layout=compact&theme=radical" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=dhiraj2105&show_icons=true&theme=radical" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj2105&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhiraj2105&theme=radical" />
+  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhiraj2105&theme=radical" />
 </p>
 
 ---
