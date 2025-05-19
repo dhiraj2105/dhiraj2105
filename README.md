@@ -62,12 +62,12 @@ const dhiraj = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=dhiraj2105&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj2105&layout=compact&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=dhiraj2105&show_icons=true&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj2105&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhiraj2105&theme=radical" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhiraj2105&theme=radical" />
 </p>
 
 ---
