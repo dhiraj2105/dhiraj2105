@@ -59,14 +59,6 @@ const dhiraj = {
 
 ---
 
-### ❤️ Favorites
-
-- 🚀 Building cool tech projects
-- 🧠 Participating in hackathons
-- 🎧 Lo-fi while coding
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
