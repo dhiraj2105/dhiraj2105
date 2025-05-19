@@ -5,41 +5,19 @@
 </h1>
 
 
-<!--
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
--->
-### 💫 About Me:
-
-
-```ts
-const dhiraj = {
-  education: "MCA Student 🎓",
-  focus: ["Full Stack Development", "C++", "Data Structures"],
-  languages: ["JavaScript", "C++", "TypeScript", "Python"],
-  funFact: "People using computers blink 66% less 👀"
-};
-```
-
----
-
 ### 🧑‍💻 Terminal Vibes
 
 ```bash
-┌──(dhiraj㉿kali)-[~/DeveloperProfile]
 └─$ whoami
-> Full Stack Developer | Open Source Enthusiast | Lifelong Learner
+> Dhiraj Kumar | Full Stack Engineer | Open Source Enthusiast | Lifelong Learner
 
-┌──(dhiraj㉿kali)-[~/TechStack]
-└─$ tech-stack --list
-> MERN Stack, C++, DSA, JavaScript, Python, Docker, Git, Linux
+└─$ fun-fact
+> People using computers blink 66% less 👀
 ```
 
 
 ---
-
-### 🚀 Technical Arsenal
-
-#### 💻 Languages & Frameworks
+### 💻 Languages & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,java,nodejs,react,express,mongodb,docker,vscode,linux,bash,github" />
 </p>
