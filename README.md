@@ -19,7 +19,7 @@
 ---
 ### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,java,nodejs,react,express,mongodb,nextjs,docker,vscode,linux,bash,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,java,nodejs,react,express,mongodb,nextjs,docker,vscode,linux,spring,github" />
 </p>
 
 ---
